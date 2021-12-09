@@ -10,7 +10,7 @@ namespace ripotest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hi");
+            Console.WriteLine("nochmal hi ");
         }
     }
 }
